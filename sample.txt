@@ -1,2 +1,2 @@
 echo " hey this is sample.txt "
-echo " Author = Chintan "
+echo " Author = Chintan s gowda "
