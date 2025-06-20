@@ -1,2 +1,2 @@
 echo " hey this is sample.txt "
-echo " Author = Chintan "
+echo " Author = Chintan " this has added to check poll scm works are not in jenkins 
